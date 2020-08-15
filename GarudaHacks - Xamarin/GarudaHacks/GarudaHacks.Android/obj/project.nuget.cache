@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsRFUbztOS/80FFvDuwlqsfrYvgz7dqbO+YoX4Kk1q38iNad3MlmlnwH5UkDtnp1FCSHe/wnqvMn7XoCDJSRDQ==",
+  "dgSpecHash": "HdvqQ7UB+3HwGoVobNDWAGqx+5vJULcucwn0ukflW5N5a2hAbpv/jnmc9he41WkbFMs0d1ftm/fPkmiXD5NMNg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.Android\\GarudaHacks.Android.csproj",
+  "projectFilePath": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.Android\\GarudaHacks.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aditya Oberai\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.10\\microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
     "C:\\Users\\Aditya Oberai\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",

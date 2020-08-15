@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj": {}
+    "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj": {
+    "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj",
+        "projectUniqueName": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj",
         "projectName": "GarudaHacks.iOS",
-        "projectPath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj",
+        "projectPath": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj",
         "packagesPath": "C:\\Users\\Aditya Oberai\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\obj\\",
+        "outputPath": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj": {
-                "projectPath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj"
+              "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj": {
+                "projectPath": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj": {
+    "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj",
+        "projectUniqueName": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj",
         "projectName": "GarudaHacks",
-        "projectPath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj",
+        "projectPath": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj",
         "packagesPath": "C:\\Users\\Aditya Oberai\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\obj\\",
+        "outputPath": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

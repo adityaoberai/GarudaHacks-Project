@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F57lAEIFxtxHPj8XvsIw+LiVnQ3h5KrnVg10KvdQZCl2V9xJZQZq343DgIl452QjS/Vb3iW+Zc5K3utiWG0TRA==",
+  "dgSpecHash": "4MSFrOPbELioNgUz1zguIX5pql020tpJk4dQfKo4Zk19liVewG/Jkj8sZL+sF7B00g/30QTcX0Qoqk/gVGy3lg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj",
+  "projectFilePath": "D:\\GitHub\\GarudaHacks-Project\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks\\GarudaHacks.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Aditya Oberai\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.10\\microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
