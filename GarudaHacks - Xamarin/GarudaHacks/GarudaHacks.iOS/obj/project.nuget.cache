@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMAupPAOb0K7xs0I95WO9guodGSrcLW6/Ae8eBDZakVh51TFOeXkQ+0ZwJPLYqP6rb6AJFJJKW6M1g4jX9C4AQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\GarudaHacks-Final\\GarudaHacks - Xamarin\\GarudaHacks\\GarudaHacks.iOS\\GarudaHacks.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aditya Oberai\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.10\\microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
+    "C:\\Users\\Aditya Oberai\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Aditya Oberai\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\Aditya Oberai\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
