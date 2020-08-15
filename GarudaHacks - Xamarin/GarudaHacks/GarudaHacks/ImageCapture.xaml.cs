@@ -105,7 +105,7 @@ namespace GarudaHacks
             var json = JsonConvert.SerializeObject(person);
             var data = new StringContent(json, Encoding.UTF8, "application/json");
 
-            var url = "https://httpbin.org/post";
+            var url = "http://0.0.0.1:7071/api/HttpTrigger1/?lang="+langPicker.SelectedItem;
             var client = new HttpClient();
 
             var response = await client.PostAsync(url, data);
